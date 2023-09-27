@@ -34,3 +34,4 @@ https://recordofwonseok.tistory.com/category/Project/Node.js%EB%A5%BC%20%EC%82%A
 # References
 
 - 펫트라슈 : https://www.petraschu.com/
+- https://recordofwonseok.tistory.com/119
